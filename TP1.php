@@ -10,6 +10,7 @@ Echo "F = $F";
 $G=((2*$A-($B/sqrt($C)))/($C+(1/$B)))*($B/4);
 echo "<Br>";
 echo "G = $G";
+echo "B = $B";
 
 Echo "<br>";
 */
