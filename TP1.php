@@ -14,7 +14,6 @@ echo "B = $B";
 
 Echo "<br>";
 */
-//Ex 2
 /*
 $A=10; $B=20;
 $C=!(!($A!=10)or(20>$B)and($A=10)&& false)&& true;
